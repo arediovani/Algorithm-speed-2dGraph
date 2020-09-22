@@ -1,0 +1,128 @@
+Project documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-sourcepath
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.11.jar;C:\Program Files (x86)\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files (x86)\BlueJ\lib\lang-stride.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src
+-d
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\doc
+-encoding
+windows-1252
+-charset
+windows-1252
+-doctitle
+src
+-windowtitle
+src
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-link
+http://download.oracle.com/javase/8/docs/api/
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src/Quick.java
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src/Bubble.java
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src/UsefulMethods.java
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src/Merge.java
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src/Selection.java
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src/Bogo.java
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src/main.java
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src/XYSeriesDemo.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\Quick.java...
+Loading source file C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\Bubble.java...
+Loading source file C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\UsefulMethods.java...
+Loading source file C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\Merge.java...
+Loading source file C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\Selection.java...
+Loading source file C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\Bogo.java...
+Loading source file C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\main.java...
+Loading source file C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\XYSeriesDemo.java...
+Constructing Javadoc information...
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\main.java:1: error: package org.jfree does not exist
+import org.jfree.*;
+^
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\main.java:2: error: package org.jfree.chart does not exist
+import org.jfree.chart.ChartFactory;
+                      ^
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\main.java:3: error: package org.jfree.chart does not exist
+import org.jfree.chart.ChartPanel;
+                      ^
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\main.java:4: error: package org.jfree.chart does not exist
+import org.jfree.chart.ChartUtilities;
+                      ^
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\main.java:5: error: package org.jfree.chart does not exist
+import org.jfree.chart.JFreeChart;
+                      ^
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\main.java:6: error: package org.jfree.chart.plot does not exist
+import org.jfree.chart.plot.Plot;
+                           ^
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\main.java:7: error: package org.jfree.chart.plot does not exist
+import org.jfree.chart.plot.PlotOrientation;
+                           ^
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\main.java:8: error: package org.jfree.data.xy does not exist
+import org.jfree.data.xy.XYSeries;
+                        ^
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\main.java:9: error: package org.jfree.data.xy does not exist
+import org.jfree.data.xy.XYSeriesCollection;
+                        ^
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\main.java:10: error: package org.jfree.ui does not exist
+import org.jfree.ui.ApplicationFrame;
+                   ^
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\main.java:11: error: package org.jfree.ui does not exist
+import org.jfree.ui.RefineryUtilities;
+                   ^
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\XYSeriesDemo.java:1: error: package org.jfree.chart does not exist
+import org.jfree.chart.ChartFactory;
+                      ^
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\XYSeriesDemo.java:2: error: package org.jfree.chart does not exist
+import org.jfree.chart.ChartPanel;
+                      ^
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\XYSeriesDemo.java:3: error: package org.jfree.chart does not exist
+import org.jfree.chart.ChartUtilities;
+                      ^
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\XYSeriesDemo.java:4: error: package org.jfree.chart does not exist
+import org.jfree.chart.JFreeChart;
+                      ^
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\XYSeriesDemo.java:5: error: package org.jfree.chart.plot does not exist
+import org.jfree.chart.plot.PlotOrientation;
+                           ^
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\XYSeriesDemo.java:6: error: package org.jfree.data.xy does not exist
+import org.jfree.data.xy.XYSeries;
+                        ^
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\XYSeriesDemo.java:7: error: package org.jfree.data.xy does not exist
+import org.jfree.data.xy.XYSeriesCollection;
+                        ^
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\XYSeriesDemo.java:8: error: package org.jfree.ui does not exist
+import org.jfree.ui.ApplicationFrame;
+                   ^
+C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\XYSeriesDemo.java:13: error: cannot find symbol
+public class XYSeriesDemo extends ApplicationFrame {
+                                  ^
+  symbol: class ApplicationFrame
+Standard Doclet version 1.8.0_192
+Building tree for all the packages and classes...
+Generating C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\doc\Bogo.html...
+Generating C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\doc\Bubble.html...
+Generating C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\doc\main.html...
+Generating C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\doc\Merge.html...
+Generating C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\doc\Quick.html...
+Generating C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\doc\Selection.html...
+Generating C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\doc\UsefulMethods.html...
+Generating C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\doc\XYSeriesDemo.html...
+Generating C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\doc\package-frame.html...
+Generating C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\doc\package-summary.html...
+Generating C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\doc\package-tree.html...
+Generating C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\doc\constant-values.html...
+Building index for all the packages and classes...
+Generating C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\doc\overview-tree.html...
+Generating C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\doc\index-all.html...
+Building index for all classes...
+Generating C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\doc\allclasses-frame.html...
+Generating C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\doc\allclasses-noframe.html...
+Generating C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\doc\index.html...
+Generating C:\Users\Aredio\IdeaProjects\SortingAlgoithmGraph\src\doc\help-doc.html...
+20 warnings
