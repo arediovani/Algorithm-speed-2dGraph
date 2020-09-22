@@ -110,3 +110,31 @@ executed we get the graph with all the information available at you instantaneou
 In this case we see that Bubble data failed at size 19m, Merge and quick sort had the highest time
 form 3 to 10 sized arrays. And as we would have guessed Quick Data is the fastest when the size
 arrays increases.
+![Reults!](/first.png) 
+
+# Conclusion / Discussion 
+After many tests that I did I came to a few conclusions
+![Conclusion!](/conclusion.png) 
+1.Bubble sort is the fastest sorting algorithm for array size from 3 to 10
+The only explanation I have for this is that Bubble sort is very simple which means that it does not need to make a lot of operations. Let’s remember that all what bubble sort does it that it tests to variables and swaps if its necessary. While other algorithms require way more calculations like diving the arrays into smaller ones etc.
+
+2. Merge sort is the worst for arrays from 0 to 10
+This might be because on the contrary to bubble sort, Merge sort has to do a lot of calculations until it goes dawn to the actual swapping values. 
+
+3. Quick Data is the fastest after size array of 10.
+This was not a real surprise but it does show a nice significance of how much faster the Quick Sort algorithm is compared to the other ones on a huge data set.
+This comes from the fact that rather than dividing the values and comparing them one by which takes time it uses the binary search tree which is way more efficient on a huge dataset.
+
+4. Merge sort is not as good as I thought
+Before my experiment I always used merge sort for any kind of sorting because I thought it was good in any case. Now I’m with the idea that Merge sort is bad for small datasets and okay for large ones.
+
+5. Bubble,Merge and Selection sorting time increase in the same way after the size is bigger than 10.
+
+Overall I’m very satisfied with my project, it came out just as I imagined.
+
+Last but not least I designed my own notation.
+Here I showed a scatter plot with the values that I got from from my test results.
+
+![Reults!](/big-d-notation.png) 
+
+**A HUGE THANK YOU TO THE COMMUNITY OF JFREE CHART FOR THE LIBRARY. WITHOUT THEM I WOULD NOT MAKE HALF OF THIS PROJECT**
